@@ -1,0 +1,20 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "Solutions to TOP's Node path, Javascript course, DSA sub-course, Project Recursion",
+  "main": "fibs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lofty-Brambles/Recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lofty-Brambles/Recursion/issues"
+  },
+  "homepage": "https://github.com/Lofty-Brambles/Recursion#readme"
+}
