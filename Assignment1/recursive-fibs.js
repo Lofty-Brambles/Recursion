@@ -1,5 +1,5 @@
 /**
- * The non-recursive solution to the fibonacci sequence question!
+ * The recursive solution to the fibonacci sequence question!
  * @param {number} n : Getting the number of elements
  * @returns The array of elements of the fibonacii sequence
  */
